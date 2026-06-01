@@ -1,13 +1,13 @@
 
-Railway Reservation Management System
+##Railway Reservation Management System
 
-Project Description
+#Project Description
 
 The Railway Reservation Management System is a Java application developed to automate train ticket reservation activities. The system enables users to reserve tickets, cancel bookings, view passenger information, and monitor seat availability efficiently.
 
 The application is integrated with a MySQL database using JDBC, allowing secure storage and retrieval of reservation records.
 
-Features
+#Features
 
 - Train ticket reservation
 - Booking cancellation
@@ -19,7 +19,7 @@ Features
 - File management for records
 - Multithreading support for concurrent operations
 
-Software Requirements
+#Software Requirements
 
 - Java JDK 8 or higher
 - MySQL Server
@@ -27,7 +27,7 @@ Software Requirements
 - NetBeans or Eclipse IDE
 - Git and GitHub
 
-Technologies Used
+#Technologies Used
 
 - Java
 - MySQL
@@ -35,7 +35,7 @@ Technologies Used
 - Git
 - GitHub
 
-Steps to Run the Project
+#Steps to Run the Project
 
 1. Download or clone the repository from GitHub.
 2. Create a MySQL database for the project.
@@ -45,14 +45,14 @@ Steps to Run the Project
 6. Execute the main Java class.
 7. Use the application to perform reservation operations.
 
-Screenshots
+#Screenshots
 
 (Add project screenshots here if available)
 
-Conclusion
+#Conclusion
 
 This project demonstrates the implementation of a railway reservation system using Java and MySQL. It provides practical experience in object-oriented programming, database connectivity, exception handling, file processing, and version control using Git and GitHub.
 
-Author
+#Author
 
 Yashwanth Reddy
