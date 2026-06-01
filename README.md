@@ -44,10 +44,6 @@ The application is integrated with a MySQL database using JDBC, allowing secure 
 6. Execute the main Java class.
 7. Use the application to perform reservation operations.
 
-## Screenshots
-
-(Add project screenshots here if available)
-
 ## Conclusion
 
 This project demonstrates the implementation of a railway reservation system using Java and MySQL. It provides practical experience in object-oriented programming, database connectivity, exception handling, file processing, and version control using Git and GitHub.
